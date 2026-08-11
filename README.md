@@ -14,7 +14,7 @@ I have completed the mechanical design (CAD) phase for the main assembly:
   <img src="https://github.com/razvancioc/DIY-Wind-Turbine-Project-Smart-Archimedes-Turbine-IoT-/blob/main/MEDIA/Lcorner.png" width="800" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6eb6785e-4bef-4326-b2a8-eec25f9a681f" alt="Electrical Schematic" width="800" />
+  <img src="https://github.com/razvancioc/DIY-Wind-Turbine-Project-Smart-Archimedes-Turbine-IoT-/blob/main/MEDIA/Rcorner.png"  width="800" />
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6eb6785e-4bef-4326-b2a8-eec25f9a681f" alt="Electrical Schematic" width="800" />
