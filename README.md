@@ -10,11 +10,11 @@ I have completed the mechanical design (CAD) phase for the main assembly:
 * **Yaw System:** The base is equipped with a free-rotation system (yaw) to allow the turbine to constantly align with the wind direction.
 
 ### 3D Renders (Current Design)
-![Side View](Screenshot 2026-08-11 at 22.25.14.jpg)
+![Side View](Screenshot%202026-08-11%20at%2022.25.14.jpg)
 
-![Front Isometric View](Screenshot 2026-08-11 at 22.25.48.jpg)
+![Front Isometric View](Screenshot%202026-08-11%20at%2022.25.48.jpg)
 
-![Rear Isometric View](Screenshot 2026-08-11 at 22.26.15.jpg)
+![Rear Isometric View](Screenshot%202026-08-11%20at%2022.26.15.jpg)
 
 ## Selected Hardware and Electronics
 * **Generator:** [To be defined: e.g., DC 775 Motor or salvaged Nema 17 Stepper Motor]
